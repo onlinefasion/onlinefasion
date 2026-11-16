@@ -1,15 +1,15 @@
-# Hi, I'm Ojasv Sharma 🧠
+# Hi, I'm Delta 🧠
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=F59E0B&width=550&lines=AI+Systems+%26+MLOps+Engineer;Distributed+LLM+Inference;Autonomous+Agent+Architectures)](https://git.io/typing-svg)
 
 ---
 
-### 🤖 Focus & Vision
+### 🤖 About Delta Node
 Bridging cutting-edge deep learning research with scalable production engineering. Designing high-throughput inference engines and multi-agent autonomous frameworks.
 
 - ⚡ High-throughput model serving: **vLLM, TensorRT-LLM, Triton Inference Server**.
 - 🛠️ Fine-tuning & quantization: **LoRA, QLoRA, AWQ, FP8/INT4 optimizations**.
-- 🔬 Designing deterministic agentic loops, vector retrieval pipelines, and semantic graphs.
+- 🔬 Deterministic agentic loops, vector retrieval pipelines, and semantic graphs.
 - 🎯 Deep enthusiast for open-source AI models and reproducible data pipelines.
 
 ---
